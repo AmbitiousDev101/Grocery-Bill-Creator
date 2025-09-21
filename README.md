@@ -1,4 +1,4 @@
-# Grocery-Bill-Creator
+**store-billing-and-distance-calculator
 
 1. "ex2q1.c" – Store Checkout Program**  
    A checkout system for a small store selling Apples, Carrots, Chips, and Candy, including:
